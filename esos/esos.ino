@@ -41,12 +41,12 @@
 // LCD
 
 /*
- * LCD RS pin to digital pin 41
- * LCD Enable pin to digital pin 39
- * LCD D4 pin to digital pin 37
- * LCD D5 pin to digital pin 35
- * LCD D6 pin to digital pin 33
- * LCD D7 pin to digital pin 31
+ * LCD RS pin to digital pin 3
+ * LCD Enable pin to digital pin 8
+ * LCD D4 pin to digital pin 4
+ * LCD D5 pin to digital pin 5
+ * LCD D6 pin to digital pin 6
+ * LCD D7 pin to digital pin 7
  * LCD R/W pin to ground
  * LCD VSS pin to ground
  * LCD VCC pin to 5V
